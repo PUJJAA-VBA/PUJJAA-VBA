@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Data Analysis**
 
-- 👨‍💻 All of my projects are available at [https://github.com/PUJJAA-VBA](https://github.com/PUJJAA-VBA)
+- 👨‍💻 All of my projects are available at [https://github.com/PUJJAA-VBA?tab=repositories](https://github.com/PUJJAA-VBA?tab=repositories)
 
 - 💬 Ask me about **coding, data visualizations, communication**
 
