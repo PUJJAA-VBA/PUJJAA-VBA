@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/PUJJAA-VBA?tab=repositories](https://github.com/PUJJAA-VBA?tab=repositories)
 
-- 💬 Ask me about **coding, data visualizations, communication**
+- 💬 Ask me about **Coding, Data Visualizations, Communication**
 
 - 📫 How to reach me **pujjaabaskaran2005@gmail.com**
 
