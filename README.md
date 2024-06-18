@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **pujjaabaskaran2005@gmail.com**
 
-- ⚡ Fun fact **I'm an AI**
+- ⚡ Fun fact **I'm AI**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
