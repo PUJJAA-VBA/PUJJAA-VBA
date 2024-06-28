@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Learning BI Tools](https://github.com/PUJJAA-VBA/DATA-ANALYTICS-MASTERCLASS)
 
-- 🌱 I’m currently learning **Data Analysis**
+- 🌱 I’m currently learning **Data Analytics**
 
 - 👨‍💻 All of my projects are available at [https://github.com/PUJJAA-VBA?tab=repositories](https://github.com/PUJJAA-VBA?tab=repositories)
 
