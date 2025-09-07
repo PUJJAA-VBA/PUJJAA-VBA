@@ -1,4 +1,4 @@
-![MasterHead](blob:chrome-untrusted://image-magnify/1abb18c5-460b-494c-970e-35282bc0f43c)
+![MasterHead](https://i.pinimg.com/736x/6e/e9/18/6ee918d6bad713109da451d783c45126.jpg)
 <h1 align="center">Hello👋, PUJJAA VBA here!</h1>
 <h3 align="center">🚀 Aspiring Software Developer | Data + AI Enthusiast | Flutter + Power BI</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
