@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/736x/6e/e9/18/6ee918d6bad713109da451d783c45126.jpg" alt="MasterHead" width="100%" height="30%"/>
+<img src="https://i.pinimg.com/1200x/5d/46/76/5d46761d4f358e389108f2d6fe1eff80.jpg" alt="MasterHead" width="100%" height="30%"/>
 <h1 align="center">Hello👋, PUJJAA VBA here!</h1>
 <h3 align="center">🚀 Aspiring Software Developer | Data + AI Enthusiast | Flutter + Power BI</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
